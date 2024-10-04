@@ -1,5 +1,7 @@
-public class Helloworld {
-   public static void main(String[] args){
-	System.out.println("Hello World");
-   }
+public class Bicycle
+{
+    public int gear = 5;
+        public void braking() {
+            System.out.println("Working of braking!");
+        }
 }
