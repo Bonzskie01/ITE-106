@@ -1,7 +1,7 @@
 import java.io.File;
 import java.util.Scanner;
 
-public class ScannerTextFile {
+public class TextFileManipulationScannerLoop {
     public static void main(String[] args) throws Exception {
         File myFile = new File("MyFile.txt");
         Scanner get = new Scanner(myFile);
