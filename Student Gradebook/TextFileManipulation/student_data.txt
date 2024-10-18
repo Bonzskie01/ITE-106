@@ -1,0 +1,5 @@
+Name,Quiz1,Quiz2,Homework1,Midterm,Final
+
+Rufert C.,90,98,90,78,90
+John C.,89,90,78,89,76
+Duwell R.,90,89,67,90,70
